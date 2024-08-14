@@ -13,3 +13,5 @@ add this bind
 Add the open_current_wallpaper.sh to your home folder or any folder to make it easier and change the hyperland.conf according to it 
 
 save the changes and presss Super+I to view the wallpaper
+
+Check out the [video preview here](https://youtu.be/UwpJAeDdvkA).
