@@ -2,7 +2,7 @@
 
 <h3>Packages needed: swwww (for wallpapers) + feh (for viewing the wallpaper)</h3>
 
-Open /home/ali/.config/hypr/hyprland.conf
+Open ~/.config/hypr/hyprland.conf
 or where you can add your key bind
 
 bind = $mainMod,i, exec, ~./open_current_wallpaper.sh
