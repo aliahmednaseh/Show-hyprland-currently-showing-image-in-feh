@@ -15,4 +15,5 @@ Add the open_current_wallpaper.sh to your home folder or any folder to make it e
 save the changes and presss Super+I to view the wallpaper
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UwpJAeDdvkA" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/UwpJAeDdvkA/0.jpg)](https://www.youtube.com/watch?v=UwpJAeDdvkA)
+
