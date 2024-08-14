@@ -1,5 +1,5 @@
 # Show-hyprland-currently-showing-image-in-feh
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <h3>Packages needed: swwww (for wallpapers) + feh (for viewing the wallpaper)</h3>
 
 Open ~/.config/hypr/hyprland.conf
