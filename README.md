@@ -1,6 +1,6 @@
 # Show-hyprland-currently-showing-image-in-feh
 
-<h3>Packages needed: swwww (for wallpapers) + feh (for viewing the wallpaper)</h3>
+<h4>Packages needed: swwww (for wallpapers) + feh (for viewing the wallpaper)</h4>
 
 Open /home/ali/.config/hypr/hyprland.conf
 or where you can add your key bind
