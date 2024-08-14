@@ -18,6 +18,6 @@ save the changes and presss Super+I to view the wallpaper
 <h2>Youtube Overview</h2>
 
 <a href="https://www.youtube.com/watch?v=UwpJAeDdvkA" target="_blank">
-    <img src="https://img.youtube.com/vi/UwpJAeDdvkA/0.jpg" alt="Watch the video" style="width: 1000px; height: 500px;"/>
+    <img src="https://img.youtube.com/vi/UwpJAeDdvkA/0.jpg" alt="Watch the video" style="width: 1000px; height: 550px;"/>
 </a>
 
